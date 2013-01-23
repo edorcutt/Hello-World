@@ -1,4 +1,4 @@
-ruleset GitHub.01 {
+ruleset GitHub01 {
   meta {
     name "HelloGitHub"
     description <<
